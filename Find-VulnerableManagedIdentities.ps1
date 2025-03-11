@@ -35,7 +35,7 @@ function Find-VulnerableManagedIdentities {
     PS C:\> Find-VulnerableManagedIdentities -AccessToken $AccessToken
 
     .NOTES
-    - Some iutput is written to the host using Write-Host.
+    - Some output is written to the host using Write-Host.
     - Written by Omri Refaeli.
     #>
 
